@@ -1,0 +1,15 @@
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\bin\Debug\net6.0\HOME0711.exe
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\bin\Debug\net6.0\HOME0711.deps.json
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\bin\Debug\net6.0\HOME0711.runtimeconfig.json
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\bin\Debug\net6.0\HOME0711.dll
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\bin\Debug\net6.0\HOME0711.pdb
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.csproj.AssemblyReference.cache
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.AssemblyInfoInputs.cache
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.AssemblyInfo.cs
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.csproj.CoreCompileInputs.cache
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.dll
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\refint\HOME0711.dll
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.pdb
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\HOME0711.genruntimeconfig.cache
+C:\Users\ab196\OneDrive\Рабочий стол\HOME0711\obj\Debug\net6.0\ref\HOME0711.dll
